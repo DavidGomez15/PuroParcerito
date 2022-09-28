@@ -1,0 +1,10 @@
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\bin\Debug\Interfazzz.exe.config
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\bin\Debug\Interfazzz.exe
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\bin\Debug\Interfazzz.pdb
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\obj\Debug\Interfazzz.csproj.AssemblyReference.cache
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\obj\Debug\Interfazzz.Calculadora.resources
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\obj\Debug\Interfazzz.Properties.Resources.resources
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\obj\Debug\Interfazzz.csproj.GenerateResource.cache
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\obj\Debug\Interfazzz.csproj.CoreCompileInputs.cache
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\obj\Debug\Interfazzz.exe
+C:\Users\312C - 16\source\repos\Interfazzz\Interfazzz\obj\Debug\Interfazzz.pdb
